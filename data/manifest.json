@@ -1213,6 +1213,17 @@
   ],
   "tracks": [
     {
+      "fingerprint": "a13e64f07304f361fde7dd99e17314eb3f33111f94e6264da6ef175b44477577",
+      "name": "9 км. 500 м+ Лоо.gpx",
+      "file": "data/tracks/2026-11-17__9 км. 500 м_ Лоо__a13e64f073.gpx",
+      "first_seen": "2026-11-17",
+      "size": 20161,
+      "source": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
+      "source_path": "/9 км. 500 м+ Лоо.gpx",
+      "md5": "0008cea872c737b9aa9407a13217ce21",
+      "sha256": "3b539e66240f51620165865cb6a0068d844feffca252a945e442afd1a43a1834"
+    },
+    {
       "fingerprint": "425f3597c3773cabc33a334f9e6d0697d2ddfcc67d6f3bfd90fae987b51a537a",
       "name": "19 км, 1000 м+ Пластунка.gpx",
       "file": "data/tracks/2026-11-17__19 км_ 1000 м_ Пластунка__425f3597c3.gpx",
@@ -1225,6 +1236,17 @@
       "sha256": "2fa7798d49856abab611173abe25643b90921c796109a5298a2ef58888a04845"
     },
     {
+      "fingerprint": "7a226d03fcdcdbf2d3764007a8991d081cf3afc4bf3a7ea1cf0dda5f94cb4f17",
+      "name": "17 км. 800 м+ Лоо.gpx",
+      "file": "data/tracks/2026-11-17__17 км. 800 м_ Лоо__7a226d03fc.gpx",
+      "first_seen": "2026-11-17",
+      "size": 24803,
+      "source": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
+      "source_path": "/17 км. 800 м+ Лоо.gpx",
+      "md5": "3847a2446448ef41172140774d041a3e",
+      "sha256": "70b7bfbfaacf4790502ceaa649c0f6f851d779ab9c15ac23e5209066d013c1bd"
+    },
+    {
       "fingerprint": "e7c7266ad0a3a6d70bdda9028dfb7a6ad16378d5dcb04cc53d13695a86206ce7",
       "name": "15 км. 800 м+ Пластунка.gpx",
       "file": "data/tracks/2026-11-17__15 км. 800 м_ Пластунка__e7c7266ad0.gpx",
@@ -1235,6 +1257,17 @@
       "source_path": "/15 км. 800 м+ Пластунка.gpx",
       "md5": "67a7732e21bfb13f894e272452dd33d5",
       "sha256": "f01478a6fa5e852c80495a0aae5cbd9b55ae4bcd65b13cf61e310d5d731ed5f0"
+    },
+    {
+      "fingerprint": "b9accb11b55b26cf2763996d4a9733ce7d5aa1debbc2ae1d1dd659fdc7ae938d",
+      "name": "14 км. 700 м+ Лоо.gpx",
+      "file": "data/tracks/2026-11-17__14 км. 700 м_ Лоо__b9accb11b5.gpx",
+      "first_seen": "2026-11-17",
+      "size": 20263,
+      "source": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
+      "source_path": "/14 км. 700 м+ Лоо.gpx",
+      "md5": "890a64d53a247d6540543e389dcba6f0",
+      "sha256": "ae0e0e7c2822f66d91d1d0222e89493c6a5d2c0ecdf8ba0826eb477c1bb4d80d"
     },
     {
       "fingerprint": "6d8ef1bcfae74aff56d63a7196399a36d4a2a7d8df957c75bd69e49501605a94",
