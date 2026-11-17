@@ -1294,11 +1294,11 @@
       "sha256": "21cb8938116a81e24fa9bba410d69090b408197af98ac7395970577e56e9fd25"
     }
   ],
-  "last_checked": "2026-11-17T21:54:21.056161+00:00",
+  "last_checked": "2026-11-17T21:56:15.657771+00:00",
   "last_run": {
-    "started_at": "2026-11-17T21:54:10.230833+00:00",
+    "started_at": "2026-11-17T21:56:13.451518+00:00",
     "telegram_ok": true,
-    "posts_scanned": 134,
+    "posts_scanned": 20,
     "sources": [
       {
         "url": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
@@ -1311,16 +1311,11 @@
         "files": 1
       }
     ],
-    "downloaded": [
-      "data/tracks/2026-11-17__11 км. 600 м_ Пластунка__6d8ef1bcfa.gpx",
-      "data/tracks/2026-11-17__15 км. 800 м_ Пластунка__e7c7266ad0.gpx",
-      "data/tracks/2026-11-17__19 км_ 1000 м_ Пластунка__425f3597c3.gpx",
-      "data/tracks/2026-11-17__10 км. Мандариновый забег 2026__b6d736b5f1.gpx"
-    ],
-    "reused": 0,
+    "downloaded": [],
+    "reused": 4,
     "errors": [],
-    "finished_at": "2026-11-17T21:54:21.056161+00:00",
+    "finished_at": "2026-11-17T21:56:15.657771+00:00",
     "ok": true
   },
-  "last_success": "2026-11-17T21:54:21.056161+00:00"
+  "last_success": "2026-11-17T21:56:15.657771+00:00"
 }
