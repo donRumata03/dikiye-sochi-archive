@@ -6,7 +6,7 @@
 
 ## Автоматическое обновление
 
-[GitHub Actions](https://github.com/donRumata03/dikiye-sochi-archive/actions/workflows/archive.yml) проверяет новые посты и файлы ежедневно в **08:22 по Москве** (05:22 UTC), при изменениях в `main` и при ручном запуске. Расписание GitHub может задерживаться.
+[GitHub Actions](https://github.com/donRumata03/dikiye-sochi-archive/actions/workflows/archive-tracks.yml) проверяет новые посты и файлы ежедневно в **08:22 по Москве** (05:22 UTC), при изменениях в `main` и при ручном запуске. Расписание GitHub может задерживаться.
 
 Ссылки из новых постов дополняют сохранённые источники. Начальный источник: https://disk.yandex.ru/d/msmGZTv0QtuLhA. При локальной проверке 17 ноября 2026 также найдена https://disk.yandex.ru/d/IePMQmU0SxLt4Q (посты №39 и №42): всего скачаны четыре GPX. Последнее состояние и результат каждого источника находятся в [`data/manifest.json`](data/manifest.json), сами файлы — в [`data/tracks/`](data/tracks/).
 

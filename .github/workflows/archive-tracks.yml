@@ -1,4 +1,4 @@
-name: Archive Dikiye Sochi tracks
+name: Archive and publish Dikiye Sochi
 
 on:
   schedule:
