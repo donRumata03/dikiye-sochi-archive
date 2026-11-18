@@ -3,6 +3,7 @@ name: Archive Dikiye Sochi tracks
 on:
   schedule:
     - cron: '22 5 * * *' # 08:22 Moscow
+    - cron: '47 13 18 11 *' # Temporary verification: 18 November, 16:47 Moscow
   workflow_dispatch:
   push:
     branches: [main]

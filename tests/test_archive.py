@@ -37,6 +37,17 @@ def response(text='', payload=b'', status=200, failure=None):
     return result
 
 
+class DisplayTimeTests(unittest.TestCase):
+    def test_update_time_is_human_readable_moscow_across_midnight(self):
+        self.assertEqual(build_site.format_moscow('2026-11-17T21:56:15.657771+00:00'),
+                         '18.11.2026 в 00:56 МСК')
+        self.assertEqual(build_site.format_moscow('2026-11-18T13:36:00Z'),
+                         '18.11.2026 в 16:36 МСК')
+
+    def test_missing_update_time(self):
+        self.assertEqual(build_site.format_moscow(None), 'не выполнялась')
+
+
 class TelegramTests(unittest.TestCase):
     def test_numeric_order_new_share_text_and_alias_deduplication(self):
         markup = message(99, URL) + message(140, f'15.11.2026 <a href="https://yadi.sk/d/new_share?utm_source=tg">скачать</a> {NEW_URL}.')
