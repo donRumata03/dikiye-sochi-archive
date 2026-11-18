@@ -3,7 +3,6 @@ name: Archive and publish Dikiye Sochi
 on:
   schedule:
     - cron: '22 5 * * *' # 08:22 Moscow
-    - cron: '*/5 * * * *' # Temporary schedule verification; remove after a real scheduled run
   workflow_dispatch:
   push:
     branches: [main]
