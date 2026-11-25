@@ -1205,6 +1205,24 @@
       "text": "🏃 Dикие трейлы в Сочи 🏃‍♀️ pinned a photo",
       "yandex_links": [],
       "event_date": ""
+    },
+    {
+      "id": 143,
+      "url": "https://t.me/dikiye_sochi/143",
+      "published_at": "2026-11-25T06:31:45+00:00",
+      "text": "Dикий трейл в Сочи № 265, 29.11.2026 Участие бесплатное Сбор в 07:45 Старт в 08:00 Локация: Лесное Место сбора и старта: 43.578309, 39.973970 https://yandex.ru/maps/-/CXcXuFPR Дистанция Fast 22 км, 1100 м+ Пейсмейкер - ? Замыкающий - ? Дистанция Medium 17 км, 900 м+ Пейсмейкер - Артур Христокьян Замыкающий - ? Дистанция Chill 9 км, ходьба, 400 м+ Пейсмейкер - ? Замыкающий - ? Трек: скачать 🍵 Что взять с собой на трейл: Трейловые кроссовки, питьевую воду на дистанцию, горячий чай в термосе, вкусняшки и тёплую сухую одежду, чтобы переодеться после финиша.",
+      "yandex_links": [
+        "https://disk.yandex.ru/d/msmGZTv0QtuLhA"
+      ],
+      "event_date": "29.11.2026"
+    },
+    {
+      "id": 144,
+      "url": "https://t.me/dikiye_sochi/144",
+      "published_at": "2026-11-25T06:31:50+00:00",
+      "text": "🏃 Dикие трейлы в Сочи 🏃‍♀️ pinned a photo",
+      "yandex_links": [],
+      "event_date": ""
     }
   ],
   "sources": [
@@ -1212,6 +1230,42 @@
     "https://disk.yandex.ru/d/IePMQmU0SxLt4Q"
   ],
   "tracks": [
+    {
+      "fingerprint": "10307e4be64c8ebe787979ed07a55ec0c401d734fcb6b5e6ba5102d2e481a032",
+      "name": "9 км. 400 м+ Лесное.gpx",
+      "file": "data/tracks/2026-11-25__9 км. 400 м_ Лесное__10307e4be6.gpx",
+      "first_seen": "2026-11-25",
+      "downloaded_at": "2026-11-25T15:46:21.873605+00:00",
+      "size": 26034,
+      "source": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
+      "source_path": "/9 км. 400 м+ Лесное.gpx",
+      "md5": "712211c2a275faa40a50a7d4f012b4ff",
+      "sha256": "d8a39f3b780129c5e6ef65921d2eb9c50fbc2193519a5479bd8677201d8575b6"
+    },
+    {
+      "fingerprint": "f69840c8ba0e7cfd9416e586acd220d5b4679786a03c5f1d8537d44732fa754e",
+      "name": "22 км. 1100 м+ Лесное.gpx",
+      "file": "data/tracks/2026-11-25__22 км. 1100 м_ Лесное__f69840c8ba.gpx",
+      "first_seen": "2026-11-25",
+      "downloaded_at": "2026-11-25T15:46:20.984206+00:00",
+      "size": 63060,
+      "source": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
+      "source_path": "/22 км. 1100 м+ Лесное.gpx",
+      "md5": "5b9bdf2703cc0c33de24b8edf6ce321d",
+      "sha256": "581f145a4c7bb62abbd675e9f82bec0bae49f0c84b9211f27bac25c6eb5e557f"
+    },
+    {
+      "fingerprint": "990a20a6d0589dc5c4c18af63093964ffc26b0844a85dd53072085ae1979f872",
+      "name": "17 км. 900 м+ Лесное.gpx",
+      "file": "data/tracks/2026-11-25__17 км. 900 м_ Лесное__990a20a6d0.gpx",
+      "first_seen": "2026-11-25",
+      "downloaded_at": "2026-11-25T15:46:20.167809+00:00",
+      "size": 46003,
+      "source": "https://disk.yandex.ru/d/msmGZTv0QtuLhA",
+      "source_path": "/17 км. 900 м+ Лесное.gpx",
+      "md5": "95111596cbc18555b4620b565bb64584",
+      "sha256": "58b383e8762fb69ec8ab2373f14c9a3eda273a6fb86574c3bc4e1ced93225780"
+    },
     {
       "fingerprint": "a13e64f07304f361fde7dd99e17314eb3f33111f94e6264da6ef175b44477577",
       "name": "9 км. 500 м+ Лоо.gpx",
@@ -1294,9 +1348,9 @@
       "sha256": "21cb8938116a81e24fa9bba410d69090b408197af98ac7395970577e56e9fd25"
     }
   ],
-  "last_checked": "2026-11-24T15:59:26.438073+00:00",
+  "last_checked": "2026-11-25T15:46:22.216663+00:00",
   "last_run": {
-    "started_at": "2026-11-24T15:59:23.802318+00:00",
+    "started_at": "2026-11-25T15:46:15.582071+00:00",
     "telegram_ok": true,
     "posts_scanned": 20,
     "sources": [
@@ -1311,11 +1365,15 @@
         "files": 1
       }
     ],
-    "downloaded": [],
-    "reused": 4,
+    "downloaded": [
+      "data/tracks/2026-11-25__17 км. 900 м_ Лесное__990a20a6d0.gpx",
+      "data/tracks/2026-11-25__22 км. 1100 м_ Лесное__f69840c8ba.gpx",
+      "data/tracks/2026-11-25__9 км. 400 м_ Лесное__10307e4be6.gpx"
+    ],
+    "reused": 1,
     "errors": [],
-    "finished_at": "2026-11-24T15:59:26.438073+00:00",
+    "finished_at": "2026-11-25T15:46:22.216663+00:00",
     "ok": true
   },
-  "last_success": "2026-11-24T15:59:26.438073+00:00"
+  "last_success": "2026-11-25T15:46:22.216663+00:00"
 }
